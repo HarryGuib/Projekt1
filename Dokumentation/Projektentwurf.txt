@@ -1,0 +1,25 @@
+#A01B : Eisenbahnmanager
+
+============== Projetkentwurf ======================
+
+Der Spieler muss den besten Weg finden und bauen um die Züge zu ihren Zielen fahren zu können. 
+Was der Player zu Verfügung hat damit er die Züge nach ihren Zielen unzerstört abfahren kann:
+-	Recht biegende Schienen.
+-	Links biegende Schienen.
+-	Gerade Schienen. 
+-	Kreuzung schienen.
+-	Ampeln. 
+-	Auto Barrieren.
+-	Brücken. 
+-	Tunnel. 
+Spielfeld besteht aus: 
+-	Ziel Punkte 
+-	Abfahrt Punkte 
+-	Züge 
+-	Bergen
+-	Flüsse 
+-	Autos 
+Der Spieler gewinnt punkte für jeden Zug der sein Ziel erreicht hat.
+Das Spiel ist beendet, wenn zwei Züge kollidieren oder einen Zug der ein falsche Ziel erreicht hat.
+
+====================================================
