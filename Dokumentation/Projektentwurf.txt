@@ -22,4 +22,25 @@ Spielfeld besteht aus:
 Der Spieler gewinnt punkte für jeden Zug der sein Ziel erreicht hat.
 Das Spiel ist beendet, wenn zwei Züge kollidieren oder einen Zug der ein falsche Ziel erreicht hat.
 
-====================================================
+===================================
+=== Feedback Alpers, 2016-10-26 ===
+===================================
+
+=== 1.) Inhaltliches
+
+== 1.1.) Spielablauf fehlt noch. Zu wenig Inhalt.
+
+Sie haben jetzt Elemente notiert, aus denen ein Eisenbahnnetz aufgebaut werden kann. In anderen Worten: Sie haben ein Spielfeld definiert. Damit können Sie bereits erste Teile der Struktur ausarbeiten.
+
+Allerdings werden Sie dann feststellen, dass Sie noch mehr Elemente benötigen, damit es eine verteilte Anwendung wird. Außerdem werden Sie danach feststellen, dass sie den Spielablauf so vage beschrieben haben, dass es kaum möglich ist, anhand dieses Entwurfs einen tatsächlichen Spielablauf zu programmieren.
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: -2 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 2 (zu wenig Inhalt)
+- Pro Strategie des Computers, die die individuellen Züge des Spielers/Nutzers adaptiert 0 bis 5 Pk.: 0
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.: 0 
+- Designaspekte -5 bis 0 Pk.: 0 
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.: -4
+(Dies ist keine abschließende Wertung.)
